@@ -24,7 +24,7 @@ flutter pub remove css_colors
 ## Ejecutar proyecto
 Abrir el archivo `main.dart` y precionar el botón `run`
 
-Si ocurre algún error con los videos, crear la carpeta `assets/videos/` en la raiz del proyecto  y descargar algunos videos de https://www.pexels.com/search/videos/vertical/ que no sean tan pesados con una duración de 10 a 15 segundos aproximadamente y moverlos a la carpeta `assets/videos/` renombrándolos con una numeración sucesiva.
+Si ocurre algún error con los videos, crear la carpeta `assets/videos/` en la raiz del proyecto y descargar algunos videos de https://www.pexels.com/search/videos/vertical/ que no sean tan pesados con una duración de 10 a 15 segundos aproximadamente y moverlos a la carpeta `assets/videos/` renombrándolos con una numeración sucesiva.
 
 ```sh
 assets/videos/                 
